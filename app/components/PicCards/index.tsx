@@ -34,7 +34,7 @@ export default function PictureCards(){
             {
                 Card_Items.map( (items) => (
                     <HStack p={10} minW={'5xl'} m={'auto'} display={'flex'} justify={'center'} align={'center'} gap={4}>
-                        <HStack gap={0} flexDirection={items.direction}>
+                        <HStack gap={0} flexDirection={"row"}>
                             <Box bg={'#171717'} boxSize={'540px'} px={14} py={16} color={'white'} display={'flex'} justifyContent={'center'} alignItems={'center'}>
                                 <VStack align={'start'} justify={'center'} m={'auto'} >
                                     <Text fontSize={'23px'} mb={5}> {items.title}</Text>
