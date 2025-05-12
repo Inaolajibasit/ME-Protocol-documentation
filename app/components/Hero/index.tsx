@@ -76,55 +76,56 @@ export default function HeroSection() {
         {/* ===================== logo box part ============================== */}
       <HStack color={'white'} flexWrap={'wrap'} gap={'60px'} justifyContent={'center'}>
         <Box bg={'black'} display={'flex'} justifyItems={'center'} alignItems={'center'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} src='https://bit.ly/dan-abramov' />
-          <Image animation={myAnimation} src='https://bit.ly/dan-abramov' />
-          <Image animation={myAnimation} src='https://bit.ly/dan-abramov' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+        </Box>
+        <Box bg={'black'} display={'flex'} justifyItems={'center'} alignItems={'center'} boxSize={'120px'} overflow={'hidden'}>
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+        </Box>
+        <Box bg={'black'} display={'flex'} justifyItems={'center'} alignItems={'center'} boxSize={'120px'} overflow={'hidden'}>
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src='/Screenshot 2024-08-27 125932.png' />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 130014.png" />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
         </Box>
         <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
+          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="/Screenshot 2024-08-27 125937.png" />
         </Box>
-        <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-        </Box>
-        <Box bg={'black'} boxSize={'120px'} overflow={'hidden'}>
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-          <Image animation={myAnimation} height={'120px'} objectFit={'cover'} alt='pls work' src="../../Screenshot 2024-08-27 130014.png" />
-        </Box>
+        
         
         
       </HStack>
